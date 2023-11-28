@@ -1,18 +1,11 @@
-## Getting Started
+## Desafio - Calculadora de Partida rankeada
+Esse foi o resultado do meu desafio da DIO para fazer uma espécie de calculadora para ver qual o saldo de vitória (Vitória - derrota), e em qual ranking o herói está de acordo com suas vitórias.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Tipos de resolução do problema
 
-## Folder Structure
+Fiz 2 projetos:
 
-The workspace contains two folders by default, where:
+- 1º: Informações previamente colocadas.
+- 2º: Possibilitando que alguém que rode o código, escolha diferentes resultados.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Linguagem utilizada: Java.
